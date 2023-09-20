@@ -1,4 +1,6 @@
-### Hi there 👋
+### Thanks for stopping by.  This space may not change much.
+### I'm a Systems Architect for the State of MN.
+## I work with a variety of technologies, but am currently focused on AI planning.
 
 <!--
 **Space2Move/Space2Move** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
