@@ -1,4 +1,4 @@
-### Systems Architect for the State of MN
+### Director of AI for Minnesota IT Services
 
 <!--
 **Space2Move/Space2Move** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
